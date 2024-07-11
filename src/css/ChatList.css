@@ -1,0 +1,57 @@
+.login-list-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #2e2e2e;
+  }
+  
+  .login-list-container h2 {
+    text-align: left;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .login-list-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .login-list-container li {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .login-list-container li:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .login-list-container li:last-child {
+    border-bottom: none;
+  }
+  
+  .login-list-container button {
+    margin-top: 20px;
+    padding: 10px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .login-list-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-list-container p {
+    margin: 10px 0;
+    color: #555;
+  }
+  

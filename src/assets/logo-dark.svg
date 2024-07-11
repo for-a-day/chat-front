@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="38" viewBox="0 0 106 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #11142d;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #1e4db7;
+        stroke: #1e4db7;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 1px;
+      }
+
+      .cls-3 {
+        fill: #1a9bfc;
+        stroke: #1a9bfc;
+      }
+
+      .cls-4 {
+        fill: #fec90f;
+        stroke: #fec90f;
+      }
+    </style>
+  </defs>
+  <text x="30" y="30" class="cls-1" font-size="24" font-weight="bold">Intranet</text>
+  <path id="Rounded_Rectangle_698" data-name="Rounded Rectangle 698" class="cls-2" d="M8.723,4.086a5.9,5.9,0,0,1,5.895,5.895V28.216a5.895,5.895,0,1,1-11.79,0V9.981A5.9,5.9,0,0,1,8.723,4.086Z"/>
+  <rect id="Rounded_Rectangle_699" data-name="Rounded Rectangle 699" class="cls-3" x="3" y="3" width="25" height="12" rx="6" ry="6"/>
+
+</svg>
